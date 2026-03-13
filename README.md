@@ -1,8 +1,8 @@
 
 <img width="1080" height="1080" alt="ea66d3a9-2934-4a06-b5e1-5c231c9b2df9" src="https://github.com/user-attachments/assets/cede6f40-b2c0-4f6f-b243-b6b53f5f20a0" />
 
-# Reve![Uploading ea66d3a9-2934-4a06-b5e1-5c231c9b2df9.png…]()
-rseIt
+# Reverse It!
+
 Reverse It! is a 2D Unity game that challenges your hand-eye coordination. Manipulate gravity, control both the player and the environment, and unlock new levels in this unique puzzle-platform experience.
 
 ## 🎮 Game Plot and Objective
