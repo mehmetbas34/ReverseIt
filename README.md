@@ -43,3 +43,6 @@ This project was brought to life through synchronized and efficient teamwork. Th
 2. **Core Mechanics:** The core mechanic of reversing gravity and the character's movement features were scripted in C#.
 3. **Prototyping and Interactions:** Various systems were tested on a sample scene, including piston-door logic, checkpoints, spikes (with fade animation upon contact), coins, a pause menu, background animations, audio integration, and camera tracking.
 4. **Level Design:** 6 different, progressively harder levels were created using Unity's TileMap feature. A dynamic **Level Lock System** was integrated to unlock the next level only after successfully completing the current one.
+
+## 🐛 Known Issues & Future Improvements
+* **Respawn Mechanic:** There is currently a known issue with the player respawning system after death. Debugging and smoothing out this spawn mechanic is a primary focus for future updates.
