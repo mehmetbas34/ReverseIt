@@ -16,6 +16,9 @@ Players must simultaneously manage the character's movements and calculate the p
 * **W / S :** Change Gravity
 * **A / D :** Move Right and Left
 
+**🎮 Play the Game Directly:**
+Additionally, the playable game build is available in the `.rar` file. You can simply download, extract the file, and run the executable to play the game directly without needing Unity!
+
 ## ⚙️ Installation & How to Play (Importing the .unitypackage)
 You can easily import this project into your own Unity Editor to explore the source code and assets:
 
