@@ -7,19 +7,19 @@
 
 Reverse It! is a 2D Unity game that challenges your hand-eye coordination. Manipulate gravity, control both the player and the environment, and unlock new levels in this unique puzzle-platform experience.
 
-## 🎮 Game Plot and Objective
+##  Game Plot and Objective
 In this puzzle-platform game where you can manipulate gravity, your main objective is to place the boxes on the pistons by calculating the effects of gravity and physics to open doors to new adventures. But watch out, the spikes are very sharp!
 
 Players must simultaneously manage the character's movements and calculate the physics of the boxes required to activate the pistons. This aims to improve hand-eye coordination, push players to their limits with progressively increasing difficulty, and enhance problem-solving (puzzle logic) skills.
 
-## ⌨️ Controls
+##  Controls
 * **W / S :** Change Gravity
 * **A / D :** Move Right and Left
 
-**🎮 Play the Game Directly:**
+** Play the Game Directly:**
 Additionally, the playable game build is available in the `.rar` file. You can simply download, extract the file, and run the executable to play the game directly without needing Unity!
 
-## ⚙️ Installation & How to Play (Importing the .unitypackage)
+##  Installation & How to Play (Importing the .unitypackage)
 You can easily import this project into your own Unity Editor to explore the source code and assets:
 
 1. Download the `ReverseIt.unitypackage` file from this repository.
@@ -29,14 +29,14 @@ You can easily import this project into your own Unity Editor to explore the sou
 5. In the pop-up window, ensure all files are checked and click **Import**.
 6. Once the import is complete, navigate to your `Scenes` folder, open the Main Menu scene, and press the Play button!
 
-## 🛠️ Technologies and Tools Used
+##  Technologies and Tools Used
 * **Game Engine:** Unity (2D)
 * **Programming Language:** C#
 * **IDE:** Visual Studio 2019
 * **Design:** Adobe Photoshop CS6
 * **Version Control & Collaboration:** Unity Collaborate (Plastic SCM)
 
-## 🚀 Development Process
+##  Development Process
 This project was brought to life through synchronized and efficient teamwork. The development stages proceeded as follows:
 
 1. **Design Phase:** Backgrounds, characters, pistons, doors, spikes, walls, menu buttons, and other essential assets were designed from scratch using Photoshop CS6.
@@ -44,5 +44,5 @@ This project was brought to life through synchronized and efficient teamwork. Th
 3. **Prototyping and Interactions:** Various systems were tested on a sample scene, including piston-door logic, checkpoints, spikes (with fade animation upon contact), coins, a pause menu, background animations, audio integration, and camera tracking.
 4. **Level Design:** 6 different, progressively harder levels were created using Unity's TileMap feature. A dynamic **Level Lock System** was integrated to unlock the next level only after successfully completing the current one.
 
-## 🐛 Known Issues & Future Improvements
+##  Known Issues & Future Improvements
 * **Respawn Mechanic:** There is currently a known issue with the player respawning system after death. Debugging and smoothing out this spawn mechanic is a primary focus for future updates.
